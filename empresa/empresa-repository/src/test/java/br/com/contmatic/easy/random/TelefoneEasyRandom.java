@@ -6,8 +6,8 @@ import org.jeasy.random.FieldPredicates;
 
 import br.com.contmatic.easy.random.campo.DDDEasyRandom;
 import br.com.contmatic.easy.random.campo.NumeroTelefoneEasyRandom;
-import br.com.contmatic.telefone.Telefone;
-import br.com.contmatic.telefone.TelefoneDDD;
+import br.com.contmatic.empresa.model.telefone.Telefone;
+import br.com.contmatic.empresa.model.telefone.TelefoneDDD;
 
 public class TelefoneEasyRandom {
 	public static Telefone telefone() {

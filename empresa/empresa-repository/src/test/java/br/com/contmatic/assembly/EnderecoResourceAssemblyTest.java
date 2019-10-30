@@ -8,7 +8,7 @@ import org.bson.Document;
 import org.junit.Test;
 
 import br.com.contmatic.easy.random.EnderecoEasyRandom;
-import br.com.contmatic.endereco.Endereco;
+import br.com.contmatic.empresa.model.endereco.Endereco;
 
 public class EnderecoResourceAssemblyTest {
 

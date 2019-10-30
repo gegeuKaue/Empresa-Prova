@@ -8,7 +8,7 @@ import org.bson.Document;
 import org.junit.Test;
 
 import br.com.contmatic.easy.random.FuncionarioEasyRandom;
-import br.com.contmatic.empresa.Funcionario;
+import br.com.contmatic.empresa.model.empresa.Funcionario;
 
 public class FuncionarioResourceAssemblyTest {
 

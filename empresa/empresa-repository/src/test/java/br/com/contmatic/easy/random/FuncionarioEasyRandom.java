@@ -9,7 +9,7 @@ import br.com.contmatic.easy.random.campo.CpfEasyRandom;
 import br.com.contmatic.easy.random.campo.EmailEasyRandom;
 import br.com.contmatic.easy.random.campo.IdadeEasyRandom;
 import br.com.contmatic.easy.random.campo.NomeEasyRandom;
-import br.com.contmatic.empresa.Funcionario;
+import br.com.contmatic.empresa.model.empresa.Funcionario;
 
 public class FuncionarioEasyRandom {
 	public static Funcionario funcionario() {

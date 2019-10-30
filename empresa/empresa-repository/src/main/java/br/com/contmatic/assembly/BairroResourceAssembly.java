@@ -2,7 +2,7 @@ package br.com.contmatic.assembly;
 
 import org.bson.Document;
 
-import br.com.contmatic.endereco.Bairro;
+import br.com.contmatic.empresa.model.endereco.Bairro;
 
 /**
  * The Class BairroResourceAssembly.

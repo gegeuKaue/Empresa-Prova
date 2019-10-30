@@ -7,7 +7,7 @@ import org.bson.Document;
 import org.jeasy.random.EasyRandom;
 import org.junit.Test;
 
-import br.com.contmatic.endereco.Bairro;
+import br.com.contmatic.empresa.model.endereco.Bairro;
 
 public class BairroResourceAssemblyTest {
 

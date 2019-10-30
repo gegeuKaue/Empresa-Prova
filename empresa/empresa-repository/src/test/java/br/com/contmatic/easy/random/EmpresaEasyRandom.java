@@ -9,8 +9,8 @@ import br.com.contmatic.easy.random.campo.EmailEasyRandom;
 import br.com.contmatic.easy.random.campo.ModelTelefoneEasyRandom;
 import br.com.contmatic.easy.random.campo.NomeEmpresaEasyRandom;
 import br.com.contmatic.easy.random.campo.UrlEasyRandom;
-import br.com.contmatic.empresa.Empresa;
-import br.com.contmatic.telefone.Telefone;
+import br.com.contmatic.empresa.model.empresa.Empresa;
+import br.com.contmatic.empresa.model.telefone.Telefone;
 
 public class EmpresaEasyRandom {
 	public static Empresa empresa() {

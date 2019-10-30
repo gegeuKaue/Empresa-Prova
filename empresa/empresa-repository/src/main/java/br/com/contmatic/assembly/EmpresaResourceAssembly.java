@@ -7,10 +7,10 @@ import java.util.Set;
 
 import org.bson.Document;
 
-import br.com.contmatic.empresa.Empresa;
-import br.com.contmatic.empresa.Funcionario;
-import br.com.contmatic.endereco.Endereco;
-import br.com.contmatic.telefone.Telefone;
+import br.com.contmatic.empresa.model.empresa.Empresa;
+import br.com.contmatic.empresa.model.empresa.Funcionario;
+import br.com.contmatic.empresa.model.endereco.Endereco;
+import br.com.contmatic.empresa.model.telefone.Telefone;
 
 /**
  * The Class EmpresaResourceAssembly.

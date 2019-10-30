@@ -5,7 +5,7 @@ import org.jeasy.random.EasyRandomParameters;
 import org.jeasy.random.FieldPredicates;
 
 import br.com.contmatic.easy.random.campo.NomeCidadeEasyRandom;
-import br.com.contmatic.endereco.Cidade;
+import br.com.contmatic.empresa.model.endereco.Cidade;
 
 public class CidadeEasyRandom {
 	public static Cidade cidade() {

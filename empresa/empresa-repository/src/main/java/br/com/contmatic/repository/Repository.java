@@ -13,7 +13,7 @@ import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoDatabase;
 
 import br.com.contmatic.assembly.EmpresaResourceAssembly;
-import br.com.contmatic.empresa.Empresa;
+import br.com.contmatic.empresa.model.empresa.Empresa;
 
 /**
  * The Class Repository.

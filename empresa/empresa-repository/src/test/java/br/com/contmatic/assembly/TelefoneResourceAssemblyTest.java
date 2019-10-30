@@ -8,7 +8,7 @@ import org.bson.Document;
 import org.junit.Test;
 
 import br.com.contmatic.easy.random.TelefoneEasyRandom;
-import br.com.contmatic.telefone.Telefone;
+import br.com.contmatic.empresa.model.telefone.Telefone;
 
 public class TelefoneResourceAssemblyTest {
 

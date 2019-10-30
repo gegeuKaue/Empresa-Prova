@@ -4,7 +4,7 @@ import java.util.Random;
 
 import org.jeasy.random.api.Randomizer;
 
-import br.com.contmatic.telefone.TelefoneDDD;
+import br.com.contmatic.empresa.model.telefone.TelefoneDDD;
 
 public class DDDEasyRandom implements Randomizer<TelefoneDDD> {
 	

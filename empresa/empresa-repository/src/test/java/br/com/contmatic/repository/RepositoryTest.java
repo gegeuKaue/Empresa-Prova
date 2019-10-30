@@ -27,7 +27,7 @@ import com.mongodb.client.MongoDatabase;
 
 import br.com.contmatic.assembly.EmpresaResourceAssembly;
 import br.com.contmatic.easy.random.EmpresaEasyRandom;
-import br.com.contmatic.empresa.Empresa;
+import br.com.contmatic.empresa.model.empresa.Empresa;
 import de.flapdoodle.embed.mongo.MongodExecutable;
 import de.flapdoodle.embed.mongo.MongodStarter;
 import de.flapdoodle.embed.mongo.config.MongodConfigBuilder;

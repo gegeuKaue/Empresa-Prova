@@ -5,9 +5,9 @@ import java.util.List;
 
 import org.bson.Document;
 
-import br.com.contmatic.endereco.Bairro;
-import br.com.contmatic.endereco.Cidade;
-import br.com.contmatic.endereco.Estado;
+import br.com.contmatic.empresa.model.endereco.Bairro;
+import br.com.contmatic.empresa.model.endereco.Cidade;
+import br.com.contmatic.empresa.model.endereco.Estado;
 
 /**
  * The Class CidadeResourceAssembly.

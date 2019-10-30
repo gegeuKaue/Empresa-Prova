@@ -6,7 +6,7 @@ import org.jeasy.random.FieldPredicates;
 
 import br.com.contmatic.easy.random.campo.CepEasyRandom;
 import br.com.contmatic.easy.random.campo.NumeroEnderecoEasyRandom;
-import br.com.contmatic.endereco.Endereco;
+import br.com.contmatic.empresa.model.endereco.Endereco;
 
 public class EnderecoEasyRandom {
 	public static Endereco endereco() {

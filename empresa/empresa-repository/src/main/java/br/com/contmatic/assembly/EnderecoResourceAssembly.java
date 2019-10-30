@@ -2,8 +2,8 @@ package br.com.contmatic.assembly;
 
 import org.bson.Document;
 
-import br.com.contmatic.endereco.Cidade;
-import br.com.contmatic.endereco.Endereco;
+import br.com.contmatic.empresa.model.endereco.Cidade;
+import br.com.contmatic.empresa.model.endereco.Endereco;
 
 /**
  * The Class EnderecoResourceAssembly.

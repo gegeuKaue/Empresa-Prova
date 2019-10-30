@@ -8,8 +8,8 @@ import org.bson.Document;
 import org.joda.time.LocalDate;
 import org.joda.time.LocalTime;
 
-import br.com.contmatic.empresa.Funcionario;
-import br.com.contmatic.telefone.Telefone;
+import br.com.contmatic.empresa.model.empresa.Funcionario;
+import br.com.contmatic.empresa.model.telefone.Telefone;
 
 /**
  * The Class FuncionarioResourceAssembly.

@@ -8,7 +8,7 @@ import org.bson.Document;
 import org.junit.Test;
 
 import br.com.contmatic.easy.random.CidadeEasyRandom;
-import br.com.contmatic.endereco.Cidade;
+import br.com.contmatic.empresa.model.endereco.Cidade;
 
 public class CidadeResourceAssemblyTest {
 

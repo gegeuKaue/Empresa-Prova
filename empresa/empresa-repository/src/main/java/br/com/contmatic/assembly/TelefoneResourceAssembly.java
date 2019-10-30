@@ -2,8 +2,8 @@ package br.com.contmatic.assembly;
 
 import org.bson.Document;
 
-import br.com.contmatic.telefone.Telefone;
-import br.com.contmatic.telefone.TelefoneDDD;
+import br.com.contmatic.empresa.model.telefone.Telefone;
+import br.com.contmatic.empresa.model.telefone.TelefoneDDD;
 
 /**
  * The Class TelefoneResourceAssembly.
